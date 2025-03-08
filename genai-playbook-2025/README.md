@@ -64,25 +64,25 @@ This learning path is designed to build your knowledge progressively, guiding yo
 
 Let's explore the sections that will shape your learning experience:
 
-**[Section 0: Evolution of LLMs](#section-0-evolution-of-language-models-the-path-to-llms)**
+**✅ [Section 0: Evolution of LLMs](#section-0-evolution-of-language-models-the-path-to-llms)**
 - Understand the historical evolution of language models—from early statistical methods to modern transformers. This section provides crucial context for appreciating the innovations that made modern LLMs possible.
 
-**[Section 1: Neural Network Fundamentals](#section-1-neural-network-fundamentals)**
+**✅ [Section 1: Neural Network Fundamentals](#section-1-neural-network-fundamentals)**
 - Refresh your understanding of neural networks, the building blocks of LLMs. This section covers fundamentals including linear algebra, basic neural network learning, and RNNs for sequence modeling.
 
-**[Section 2: LLM Architecture and Core Concepts](#section-2-llm-architecture-and-core-concepts)**
+**✅ [Section 2: LLM Architecture and Core Concepts](#section-2-llm-architecture-and-core-concepts)**
 - Dive into the core components of LLMs including pre-LLM language understanding, word embeddings, transformer architecture, and advanced transformer concepts.
 
-**[Section 3: LLM-based Applications](#section-3-llm-based-applications)**
+**⏳ [Section 3: LLM-based Applications](#section-3-llm-based-applications)**
 - Learn practical techniques for applying LLMs including prompt engineering (both basic and advanced), and Retrieval-Augmented Generation (RAG). Also explore practical frameworks like LangChain.
 
-**[Section 4: Multimodal LLMs and SLMs](#section-4-multimodal-llms-and-slms)**
+**⏳ [Section 4: Multimodal LLMs and SLMs](#section-4-multimodal-llms-and-slms)**
 - Explore advanced applications that extend beyond text, including multimodal language models and Small Language Models (SLMs). This section covers agents and interactions across modalities.
 
-**[Section 5: Fine-Tuning LLMs](#section-5-fine-tuning-llms)**
+**⏳ [Section 5: Fine-Tuning LLMs](#section-5-fine-tuning-llms)**
 - Understand how to fine-tune LLMs for specific tasks, including techniques like LoRA for efficient adaptation.
 
-**[Section 6: LLM Deployment](#section-6-llm-deployment)**
+**⏳ [Section 6: LLM Deployment](#section-6-llm-deployment)**
 - Gain insights into deploying LLMs in production, covering API deployment, monitoring, and end-to-end pipelines.
 
 Below, the content is reorganized to reflect this structure:
