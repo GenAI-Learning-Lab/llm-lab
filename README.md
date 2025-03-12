@@ -1,9 +1,8 @@
-# LLM Lab
-A beginner-friendly space to learn, build, and explore Large Language Models.
+# LLM Lab: A Community Hub for Learning and Building with Large Language Models
+LLM Lab is a community-led platform offering practical guides and curated resources for exploring large language models. Whether you're just starting out or looking to deepen your understanding, this space provides clear learning paths, hands-on applications, and up-to-date insights to support your journey.
 
 ## 📚 [LLM Learning Path](https://github.com/GenAI-Learning-Lab/llm-lab/tree/main/llm-learning-path) - Start your LLM journey
 ## 🛠️ [LLM Applications](https://github.com/GenAI-Learning-Lab/llm-lab/tree/main/llm-applications) - Apply what you learn
-s
 
 In addition to learning path and llm applications, this llm lab repository keeps you up to date with the latest advancements in Generative AI by providing:
 
