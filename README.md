@@ -1,8 +1,8 @@
 # LLM Lab
 A beginner-friendly space to learn, build, and explore Large Language Models.
 
-- [LLM Learning Path](llm-course/) - Start your LLM journey
-- [LLM Applications](llm-applications/) - Apply what you learn
+## - [LLM Learning Path](https://github.com/GenAI-Learning-Lab/llm-lab/tree/main/llm-learning-path) - Start your LLM journey
+## - [LLM Applications](https://github.com/GenAI-Learning-Lab/llm-lab/tree/main/llm-applications) - Apply what you learn
 
 
 In addition to learning path and llm applications, this llm lab repository keeps you up to date with the latest advancements in Generative AI by providing:
